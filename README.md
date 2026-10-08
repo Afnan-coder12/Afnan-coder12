@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Afnan
 
-<!--
-**Afnan-coder12/Afnan-coder12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Development Student
 
-Here are some ideas to get you started:
+I'm learning **Web Development** and currently focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 HTML
+- 🎨 CSS
+- 🖥️ Basic Website Design
+
+### 🛠️ Skills
+
+**HTML** — Creating website structures  
+**CSS** — Styling and designing websites
+
+### 📚 Currently Learning
+
+- HTML
+- CSS
+- Website Layouts
+- Responsive Web Design
+
+### 🚀 My Goal
+
+I want to improve my web development skills and become a better web developer by creating more websites and projects.
+
+### 📂 My Projects
+
+I upload my HTML and CSS practice projects here on GitHub.
+
+### 📫 Connect With Me
+
+Thanks for visiting my profile! 😊
